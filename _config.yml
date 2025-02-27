@@ -1,6 +1,6 @@
 title: "hdiQ's blog"
 author: "hdiQ"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "My personal blog"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -32,6 +32,9 @@ comments:
     category: General
     category_id: DIC_kwDOOAbulM4CnZNX
     mapping: pathname
+    input_position: # optional, default to 'bottom'
+    lang: # optional, default to the value of `site.lang`
+    reactions_enabled: # optional, default to the value of `1`
 
 plugins:
  - jekyll-feed
