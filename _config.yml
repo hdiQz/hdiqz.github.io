@@ -25,7 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
-  active: giscus
+  provider: giscus
   giscus:
     repo: hdiQz/hdiqz.github.io
     repo_id: R_kgDOOAbulA
