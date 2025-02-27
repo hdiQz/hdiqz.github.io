@@ -30,3 +30,12 @@ comments:
 
 plugins:
  - jekyll-feed
+
+comments:
+  active: giscus
+  giscus:
+    repo: hdiQz/hdiqz.github.io
+    repo_id: R_kgDOOAbulA
+    category: Comments
+    category_id: DIC_kwDOOAbulM4CnZNi
+    mapping: pathname
