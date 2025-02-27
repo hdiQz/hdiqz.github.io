@@ -1,6 +1,7 @@
 ---
 title: "基于Jekyll-contrast和Giscus搭建Github Pages"
 layout: post
+comments: true
 ---
 
 1. fork [niklasbuschmann/contrast](https://github.com/niklasbuschmann/contrast), 仓库名称设置为 `[username].github.io`
