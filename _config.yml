@@ -29,8 +29,8 @@ comments:
   giscus:
     repo: hdiQz/hdiqz.github.io
     repo_id: R_kgDOOAbulA
-    category: Comments
-    category_id: DIC_kwDOOAbulM4CnZNi
+    category: General
+    category_id: DIC_kwDOOAbulM4CnZNX
     mapping: pathname
 
 plugins:
