@@ -25,16 +25,17 @@ external:                  # shows a footer with social links - for available ic
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
-  provider: giscus
   giscus:
     repo: hdiQz/hdiqz.github.io
     repo_id: R_kgDOOAbulA
     category: General
     category_id: DIC_kwDOOAbulM4CnZNX
     mapping: pathname
-    input_position: # optional, default to 'bottom'
-    lang: # optional, default to the value of `site.lang`
-    reactions_enabled: # optional, default to the value of `1`
+    strict: 0
+    reactions_enabled: 1
+    input_position: bottom
+    lang: zh-CN
+    crossorigin: anonymous
 
 plugins:
  - jekyll-feed
