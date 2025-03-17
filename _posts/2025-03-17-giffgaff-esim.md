@@ -7,4 +7,4 @@ comments: true
 欢迎大家关注大佬 @mykeyvans,  也可以联系他开卡:  
 Github: [etnperlong](https://github.com/etnperlong)  
 TG Channel: [@MyTricksCollection](https://t.me/MyTricksCollection)  
-Giffgaff eSIM 上车指南: https://blog.mykeyvans.com/article/giffgaff-esim
+Giffgaff eSIM 上车指南: [博客链接](https://blog.mykeyvans.com/article/giffgaff-esim)
